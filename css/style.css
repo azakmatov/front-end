@@ -1,0 +1,39 @@
+.bg1 {
+  padding-top: 30vh;
+  background: black;
+  height: 100vh;
+  opacity: .7;
+}
+
+.bg2 {
+  padding-top: 20vh;
+  background: white;
+  height: 50vh;
+}
+
+.bg3 {
+  padding-top: 10vh;
+  background: red;
+  height: 50vh;
+  color: white;
+}
+
+.ulli {
+  list-style: none;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+
+.other {
+  color: #812523;
+}
+
+.bg4 {
+  margin-top: 100vh;
+  background-color: black;
+  height: 100vh;
+  color: white;
+  padding-top: 30vh;
+  opacity: .7;
+}
